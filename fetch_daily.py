@@ -15,10 +15,9 @@ import feedparser
 # ================== 你以后主要改这里：信息源列表 ==================
 # (显示名称, RSS 地址)。想换源/加源就改这个列表，其他代码不用动。
 FEEDS = [
-    ("机器之心", "https://rsshub.app/jiqizhixin/daily"),
-    ("量子位", "https://rsshub.app/qbitai/article"),
-    ("36氪快讯", "https://rsshub.app/36kr/newsflashes"),
-    ("V2EX-分享创造", "https://rsshub.app/v2ex/topics/share"),
+    ("量子位", "https://www.qbitai.com/feed"),
+    ("36氪资讯", "https://36kr.com/feed"),
+    ("少数派", "https://sspai.com/feed"),
     ("阮一峰科技爱好者周刊", "https://www.ruanyifeng.com/blog/atom.xml"),
 ]
 
